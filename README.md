@@ -7,7 +7,7 @@ Me chamo Lucas Gabriel Lanza Lima, tenho 16 anos e sou de Guaiçara/SP. Estou fi
 Focado em Back-End, mas com domínio de Front-End para agilizar testes e integrações quando necessário.
 
 ---
-<!-- Linguagens e Framaeworks comentados estão sendo estudados -->
+<!-- Linguagens e Framaeworks comentados estão sendo estudados --> 
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
