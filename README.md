@@ -133,14 +133,14 @@ Focado em Back-End, mas com domínio de Front-End para agilizar testes e integra
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lanza08&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LanzaDev&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanza08&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanzaDev&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
