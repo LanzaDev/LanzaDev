@@ -1,6 +1,6 @@
 # 👾 Lanza
 
-**`Desenvolvedor Back-End | Entusiasta de IA & InfoSec`**
+**`Desenvolvedor Back-End | Entusiasta de IA & Segurança da informação`**
 
 Me chamo Lucas Gabriel Lanza Lima, tenho 16 anos e sou de Guaiçara/SP. Estou finalizando o ensino médio na ETEC, junto com o curso técnico de Desenvolvimento de Sistemas. Atualmente, estou cursando o CS50x de Harvard. Sou apaixonado por tecnologia desde pequeno -- sempre gostei de criar, desmontar e recriar.
 
