@@ -32,7 +32,7 @@ Focado em Backend, mas com domínio de Frontend para agilizar testes e integraç
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+/> <!-- 
 <img 
     align="left" 
     alt="PostgreSQL" 
@@ -48,7 +48,7 @@ Focado em Backend, mas com domínio de Frontend para agilizar testes e integraç
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
+/>-->
 <img 
     align="left" 
     alt="HTML"
