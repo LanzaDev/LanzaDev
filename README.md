@@ -57,7 +57,7 @@ Focado em Backend, mas com domínio de Frontend para agilizar testes e integraç
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
+<img  
     align="left" 
     alt="CSS" 
     title="CSS"
