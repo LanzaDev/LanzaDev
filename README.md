@@ -27,11 +27,19 @@ Focado em Backend, mas com domínio de Frontend para agilizar testes e integraç
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Nest" 
+    title="Nest"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"          
+/>
+<img 
+    align="left" 
+    alt="Prisma" 
+    title="Prisma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"          
 />
 <img 
     align="left" 
