@@ -51,6 +51,22 @@ Focado em Backend, mas com domínio de Frontend para agilizar testes e integraç
 />
 <img 
     align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img 
+    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
@@ -81,6 +97,7 @@ Focado em Backend, mas com domínio de Frontend para agilizar testes e integraç
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+<!-- 
 <img
     align="left" 
     alt="TaildwindCSS" 
@@ -89,6 +106,7 @@ Focado em Backend, mas com domínio de Frontend para agilizar testes e integraç
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+-->
 <img 
     align="left" 
     alt="Bootstrap"
@@ -97,6 +115,7 @@ Focado em Backend, mas com domínio de Frontend para agilizar testes e integraç
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
 
 <br/>
 <br/>
