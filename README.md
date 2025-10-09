@@ -80,11 +80,35 @@ Focado em Backend, mas com domínio de Frontend para agilizar testes e integraç
 />
 <img 
     align="left" 
+    alt="Fastify" 
+    title="Fastify"
+    width="30px" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg"         
+/>
+<img 
+    align="left" 
     alt="Express" 
     title="Express"
     width="30px" 
     style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Swagger" 
+    title="Swagger"
+    width="30px" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"         
+/>
+<img 
+    align="left" 
+    alt="JestJS" 
+    title="JestJS"
+    width="30px" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"         
 />
 <img 
     align="left" 
