@@ -186,23 +186,31 @@ Focado em Backend, mas com domínio de Frontend para agilizar testes e integraç
 
 ### 📊 Estatísticas
 
-<p>
+#### GitHub
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
+
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LanzaDev&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanzaDev&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=99" 
+  <img 
+    alt="Top Linguagens" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanzaDev&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=99" 
   />
 
-</p>
+</div>
+
+#### LeetCode
+<div style="margin-top: 30px;">
+  <img 
+    alt="Leetcode Stats" 
+    src="https://leetcard.jacoblin.cool/LanzaDev?ext=heatmap" 
+  />
+</div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
