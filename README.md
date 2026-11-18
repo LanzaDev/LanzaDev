@@ -147,21 +147,25 @@ Desenvolvimento de automações, bots e integrações entre plataformas e servi�
 ### 📊 Estatísticas
 
 #### GitHub
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: flex-start;">
-    
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=LanzaDev&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
-  />
 
-  <img 
-    alt="Top Linguagens" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanzaDev&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=99" 
-  />
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img
+        alt="GitHub Stats"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=LanzaDev&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br"
+      />
+    </td>
+    <td>
+      <img
+        alt="Top Linguagens"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanzaDev&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=99"
+      />
+    </td>
+  </tr>
+</table>
 
 #### LeetCode
 <div style="margin-top: 30px;">
